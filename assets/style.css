@@ -1,0 +1,193 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*  header styling */
+header {
+    position: fixed;
+    width: 98%;
+    margin: 1%;
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-between ;
+    background-color: #77AD45;
+    height: 100px;
+    border-radius: 7px;
+    z-index: 1;
+}
+
+header h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #fff;
+    padding: 20px 80px;
+}
+
+header a {
+    text-decoration: none;
+    color: #fff;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding-right: 50px;
+}
+
+header nav ul li {
+    padding: 40px 20px;
+    font-weight: bold;
+    font-size: 1.55vw;
+}
+
+header nav a:hover {
+    color: #666;
+}
+
+/* about-me styling */
+#about-me {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 200px;
+    padding: 30px 80px;
+}
+
+#about-me .bio {
+    margin-top: 100px;
+    width: 70%;
+}
+
+#about-me .bio h2 {
+    font-weight: bold;
+    font-size: 36px;
+    padding: 20px;
+    background-color: #ccc;
+    border-radius: 7px;
+}
+
+.bio p {
+    padding: 20px;
+    font-size: 18px;
+}
+
+#about-me img {
+    margin-top: 100px;
+    border: 5px solid #77AD45;
+    border-radius: 7px;
+    height: 300px;
+}
+
+/* my-work styling */
+
+.my-work-header {
+    margin: 200px 80px 0 80px;
+    background-color: #ccc;
+    padding: 30px;
+    border-radius: 7px;
+}
+
+.my-work-header h2 {
+    text-align: center;
+    font-size: 36px;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+main h3 {
+    padding: 20px;
+}
+
+main a {
+    width: 100%;
+
+}
+
+h3 {
+    color: #fff;
+    text-decoration: none;
+    background-color: #000;
+    opacity: 75%;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.work1 {
+    margin: 10px 80px 0 80px;
+    padding: 30px;
+    background-image: url(images/hero-bg.jpg);
+    background-size: 100%;
+    height: 300px;
+    border-radius: 7px;
+
+} 
+
+.work2 {
+    margin: 10px 0px 10px 80px;
+    width: 28%;
+    background-image: url(images/gradient1.jpg);
+    background-size: 200%;
+    height: 300px;
+    border-radius: 7px;
+}
+
+.work3 {
+    margin: 10px 0px 10px 0px;
+    width: 28%;
+    background-image: url(images/gradient2.jpg);
+    background-size: 200%;
+    height: 300px;
+    border-radius: 7px;
+}
+
+.work4 {
+    margin: 10px 80px 10px 0px;
+    width: 28%;
+    background-image: url(images/gradient3.jpeg);
+    background-size: 200%;
+    height: 300px;
+    border-radius: 7px;
+}
+
+/* contact info */
+.contact-header {
+    margin: 0px 80px 0 80px;
+    background-color: #ccc;
+    text-align: center;
+    padding: 30px;
+    border-radius: 7px;
+}
+
+.contact-header h2 {
+    text-align: center;
+    font-size: 36px;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 10px 80px;
+}
+
+.contact-info a {
+    font-size: 30px;
+    color: #000;
+    height: 40px;
+    background-color: #ccc;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 7px;
+    text-align: center;
+}
+
+.contact-info a:hover {
+    color: #77AD45;
+}
