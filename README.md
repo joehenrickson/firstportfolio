@@ -13,6 +13,11 @@ GitHub Repository:  https://github.com/joehenrickson/firstportfolio.git
 
 Live Page:   https://joehenrickson.github.io/firstportfolio/
 
-https://github.com/joehenrickson/firstportfolio/blob/main/assets/images/screenShot1.png
-https://github.com/joehenrickson/firstportfolio/blob/main/assets/images/screenShot2.png
-https://github.com/joehenrickson/firstportfolio/blob/main/assets/images/screenShot3.png
+ABOUT ME SECTION
+![alt text](https://github.com/joehenrickson/firstportfolio/blob/main/assets/images/screenShot1.png?raw=1)
+
+MY WORK SECTION
+![alt text](https://github.com/joehenrickson/firstportfolio/blob/main/assets/images/screenShot2.png?raw=1)
+
+CONTACT INFO SECTION
+![alt text](https://github.com/joehenrickson/firstportfolio/blob/main/assets/images/screenShot3.png?raw=1)
