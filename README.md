@@ -12,3 +12,5 @@ Mobile responsiveness is a work in progress.
 GitHub Repository:  https://github.com/joehenrickson/firstportfolio.git
 
 Live Page:   https://joehenrickson.github.io/firstportfolio/
+
+https://github.com/joehenrickson/firstportfolio/upload/main/assets/images#:~:text=Screen%20Shot%202022%2D04%2D10%20at%208.27.59%20PM.png
