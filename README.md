@@ -8,3 +8,7 @@ Main content is the work with clickable images of the work.  The first HTML/CSS 
 Contact info is at the bottom of the page with clickable links that call, email and access my GitHub page.  
 
 Mobile responsiveness is a work in progress.
+
+GitHub Repository:  https://github.com/joehenrickson/firstportfolio.git
+
+Live Page:  
